@@ -1,0 +1,27 @@
+.addform {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: rgb(238, 235, 235);
+  border-radius: 5px;
+}
+.context_container {
+  display: flex;
+  gap: 10px;
+}
+
+.inputBox {
+  border-radius: 5px;
+  border: none;
+  height: 20px;
+}
+
+.addTodo {
+  background-color: teal;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
